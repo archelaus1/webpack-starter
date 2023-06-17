@@ -1,2 +1,2 @@
 # webpack-starter
-Dev environment with webpack, MiniCSSExractPlugin and Babel
+A simple JS dev environment with webpack, MiniCSSExractPlugin and Babel
